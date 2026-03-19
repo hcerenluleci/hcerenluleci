@@ -6,7 +6,7 @@ Computer Engineering Student @ Atılım University | AI Minor
 
 ---
 
-## 👨‍💻 About Me
+## 👩‍💻 About Me
 
 I am a Computer Engineering student at Atılım University, currently pursuing a minor in Artificial Intelligence.
 
