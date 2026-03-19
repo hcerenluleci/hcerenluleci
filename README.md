@@ -19,7 +19,7 @@ I am a Computer Engineering student at Atılım University, currently pursuing a
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,git,vscode,flutter,dart,cs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,tensorflow,html,git,vscode,flutter,dart&theme=dark" />
 </p>
 
 <p align="center">
@@ -29,8 +29,6 @@ I am a Computer Engineering student at Atılım University, currently pursuing a
 </p>
 
 ---
-
-## 🐍 My Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/hcerenluleci/hcerenluleci/output/github-contribution-grid-snake-dark.svg" />
