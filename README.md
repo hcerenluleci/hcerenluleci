@@ -11,15 +11,21 @@ Computer Engineering Student @ Atılım University | AI Minor
 I am a Computer Engineering student at Atılım University, currently pursuing a minor in Artificial Intelligence.
 
 - 🔭 I’m pursuing a BS in Computer Engineering  
-- 🌱 My interests include Machine Learning, Automata Theory, and Digital Design  
-- 💻 I focus on building a strong theoretical foundation while applying it through projects  
+- 🌱 Interested in Machine Learning, Automata Theory, and Digital Design  
+- 💻 Focused on strengthening my fundamentals and applying them through projects  
 
 ---
 
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,flutter,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,git,vscode,flutter,dart,cs&theme=dark" />
+</p>
+
+<p align="center">
+💾 SQL · Oracle  
+🌐 Flask  
+🛠️ Eclipse · BlueJ · Android Studio  
 </p>
 
 ---
