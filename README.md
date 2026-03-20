@@ -1,13 +1,22 @@
 <h1 align="center">Hi 👋 I'm Hulya Ceren Luleci</h1>
 
 <p align="center">
-Computer Engineering Student @ Atılım University | AI Minor
+  Computer Engineering Student @ Atılım University | AI Minor
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hulya-ceren-luleci/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3amRud2R2enA3a25iOHZjeGFramxtbGZ0emI5NTkzOWRzZXN1cHF1biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yr6mgdF0b9arC/giphy.gif" width="320"/>
+</p>
+
+<p align="center">
+  <i>"You see, but you do not observe."</i><br/>
+  <sub>— Sherlock Holmes</sub>
 </p>
 
 ---
@@ -30,9 +39,9 @@ I am a Computer Engineering student at Atılım University, currently pursuing a
 </p>
 
 <p align="center">
-💾 SQL · Oracle  
-🌐 Flask  
-🛠️ Eclipse · BlueJ · Android Studio  
+  💾 SQL · Oracle <br/>
+  🌐 Flask <br/>
+  🛠️ Eclipse · BlueJ · Android Studio
 </p>
 
 ---
