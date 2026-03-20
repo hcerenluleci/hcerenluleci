@@ -23,12 +23,12 @@
 
 ## 👩‍💻 About Me
 
-I am a Computer Engineering student at Atılım University, currently pursuing a minor in Artificial Intelligence.
+Computer Engineering student at Atılım University, pursuing a minor in Artificial Intelligence.
 
-- 🔭 I’m pursuing a BS in Computer Engineering  
+- 🔭 Computer Engineering undergraduate  
 - 🌱 Interested in Machine Learning, Automata Theory, and Digital Design  
-- 💻 Focused on strengthening my fundamentals and applying them through projects  
-- 🌸 Always eager to learn and improve through new experiences  
+- 💻 Building strong fundamentals through projects  
+- 🌸 Always eager to learn and improve  
 
 ---
 
