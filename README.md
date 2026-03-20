@@ -4,6 +4,12 @@
 Computer Engineering Student @ Atılım University | AI Minor
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/hulya-ceren-luleci/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ## 👩‍💻 About Me
