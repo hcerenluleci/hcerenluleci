@@ -32,9 +32,9 @@ I am a Computer Engineering student at Atılım University, currently pursuing a
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hcerenluleci/hcerenluleci/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/hcerenluleci/hcerenluleci/output/github-contribution-grid-snake-dark-pink.svg" />
 </p>
 
 ---
 
-📫 Don't hesitate to reach me out at **hceren2005@gmail.com**
+📫 Feel free to reach out at **hceren2005@gmail.com**
