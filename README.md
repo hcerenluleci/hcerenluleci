@@ -4,15 +4,19 @@
 Computer Engineering Student @ Atılım University | AI Minor
 </p>
 
+<p align="center">
+🌸 Passionate about building, learning, and improving every day
+</p>
+
 ---
 
-## 👩‍💻 About Me
+## 🎀 About Me
 
 I am a Computer Engineering student at Atılım University, currently pursuing a minor in Artificial Intelligence.
 
-- 🔭 I’m pursuing a BS in Computer Engineering  
-- 🌱 Interested in Machine Learning, Automata Theory, and Digital Design  
-- 💻 Focused on strengthening my fundamentals and applying them through projects  
+- 💻 Pursuing a BS in Computer Engineering  
+- 🌷 Interested in Machine Learning, Automata Theory, and Digital Design  
+- 🧠 Focused on strengthening my fundamentals and applying them through projects  
 
 ---
 
@@ -36,4 +40,6 @@ I am a Computer Engineering student at Atılım University, currently pursuing a
 
 ---
 
-📫 Don't hesitate to reach me out at **hceren2005@gmail.com**
+<p align="center">
+📫 Reach me at <b>hceren2005@gmail.com</b>
+</p>
