@@ -13,6 +13,7 @@ I am a Computer Engineering student at Atılım University, currently pursuing a
 - 🔭 I’m pursuing a BS in Computer Engineering  
 - 🌱 Interested in Machine Learning, Automata Theory, and Digital Design  
 - 💻 Focused on strengthening my fundamentals and applying them through projects  
+- 🌸 Always eager to learn and improve through new experiences  
 
 ---
 
