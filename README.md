@@ -31,4 +31,4 @@ I am a Computer Engineering student at Atılım University, currently pursuing a
 
 ---
 
-📫 Feel free to reach out at **hceren2005@gmail.com**
+📫 Feel free to reach out: **hceren2005@gmail.com**
