@@ -51,3 +51,7 @@
 ---
 
 📫 Feel free to reach out: **hceren2005@gmail.com**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:F8BBD0,100:FCE4EC&height=140&section=footer"/>
+</p>
