@@ -52,4 +52,3 @@
 
 📫 Feel free to reach out: **hceren2005@gmail.com**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,100:FCE4EC&height=150&section=footer"/>
