@@ -23,7 +23,11 @@
 
 ## 👩‍💻 About Me
 
-Computer Engineering student at Atılım University, pursuing a minor in Artificial Intelligence.
+<p>
+  Computer Engineering student
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm56cXY4bWRjNDI3cWVuZno2YWV0M2JrZGVzNXl0eGVwaGowMTZ6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2WpVD6Y1IrMEGyf0xx/giphy.gif" width="38" style="vertical-align: -6px;" />
+  at Atılım University, pursuing a minor in Artificial Intelligence.
+</p>
 
 - 🔭 Computer Engineering undergraduate  
 - 🌱 Interested in Machine Learning, Automata Theory, and Digital Design  
