@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Hulya Ceren Luleci</h1>
+<h1 align="center">Hi 👋 I'm Ceren</h1>
 
 <p align="center">
   Computer Engineering Student @ Atılım University | AI Minor
