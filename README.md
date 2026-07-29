@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/hulya-ceren-luleci/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://hcerenluleci-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-d4838b?style=for-the-badge&logo=todoist&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
@@ -54,5 +57,3 @@
   🌐 Flask <br/>
   🛠️ Eclipse · BlueJ · Android Studio
 </p>
-
----
