@@ -49,11 +49,11 @@
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,tensorflow,html,git,vscode,flutter,dart&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,tensorflow,html,css,postgresql,git,vscode,flutter,dart&theme=dark" />
 </p>
 
 <p align="center">
-  💾 SQL · Oracle <br/>
-  🌐 Flask <br/>
+  💾 SQL · PostgreSQL · Oracle <br/>
+  🌐 Flask · HTML/CSS <br/>
   🛠️ Eclipse · BlueJ · Android Studio
 </p>
