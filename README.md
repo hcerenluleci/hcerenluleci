@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Ceren</h1>
+<h1 align="center">Hi 👋 I'm Ceren 🌸</h1>
 
 <p align="center">
   Computer Engineering Student @ Atılım University | AI Minor
@@ -15,14 +15,14 @@
 
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3amRud2R2enA3a25iOHZjeGFramxtbGZ0emI5NTkzOWRzZXN1cHF1biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yr6mgdF0b9arC/giphy.gif" 
+    src="https://media1.tenor.com/m/5JBjb_L76SkAAAAC/patrick-jane-simon-baker.gif" 
     width="320"
   />
 </p>
 
 <p align="center">
-  <i>"You see, but you do not observe."</i><br/>
-  <sub>— Sherlock Holmes</sub>
+  🍵 <i>"I'm not psychic, I just pay attention."</i><br/>
+  <sub>— Patrick Jane</sub>
 </p>
 
 ---
@@ -39,10 +39,10 @@
   at Atılım University, pursuing a minor in Artificial Intelligence.
 </p>
 
-- 🔭 Computer Engineering undergraduate
+- 🔍 Computer Engineering undergraduate
 - 🌱 Interested in Machine Learning, Automata Theory, and Digital Design
 - 💻 Building strong fundamentals through projects
-- 🌸 Always eager to learn and improve
+- 🍵 Always eager to learn and improve
 
 ---
 
