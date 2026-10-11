@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Ceren 💫</h1>
 
 <p align="center">
-  Computer Engineering Student @ Atılım University | AI Minor
+  Computer Engineering @ Atılım University | AI Minor
 </p>
 
 <p align="center">
