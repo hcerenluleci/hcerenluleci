@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  🍵 <i>"No, I'm just paying attention."</i><br/>
+  🍵 <i>"I'm just paying attention."</i><br/>
   <sub>— Patrick Jane, <b>The Mentalist</b></sub>
 </p>
 
