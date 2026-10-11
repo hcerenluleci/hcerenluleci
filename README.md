@@ -39,7 +39,6 @@
   at Atılım University, pursuing a minor in Artificial Intelligence.
 </p>
 
-- 🔍 Computer Engineering undergraduate
 - 🌱 Interested in Machine Learning, Automata Theory, and Digital Design
 - 💻 Building strong fundamentals through projects
 - 🧩 Always eager to learn and improve
