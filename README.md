@@ -21,8 +21,8 @@
 </p>
 
 <p align="center">
-  🍵 <i>"I'm not psychic, I just pay attention."</i><br/>
-  <sub>— Patrick Jane</sub>
+  🍵 <i>"No, I'm just paying attention."</i><br/>
+  <sub>— Patrick Jane, <b>The Mentalist</b></sub>
 </p>
 
 ---
