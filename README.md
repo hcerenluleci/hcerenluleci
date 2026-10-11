@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Ceren 🌸</h1>
+<h1 align="center">Hi 👋 I'm Ceren 💫</h1>
 
 <p align="center">
   Computer Engineering Student @ Atılım University | AI Minor
@@ -42,7 +42,7 @@
 - 🔍 Computer Engineering undergraduate
 - 🌱 Interested in Machine Learning, Automata Theory, and Digital Design
 - 💻 Building strong fundamentals through projects
-- 🍵 Always eager to learn and improve
+- 🧩 Always eager to learn and improve
 
 ---
 
